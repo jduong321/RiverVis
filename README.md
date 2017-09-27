@@ -6,3 +6,6 @@ Approach: Our group decided to create a trendline that would be used to identify
 
 Contribution: Using D3.js I handled how the transitions between different rivers were handled. This involved reading the JSON files of the different rivers and creating the bar graph. 
 
+Instructions: Extract the zip file. Open River.html with IE or firefox.
+
+Video: https://www.youtube.com/watch?v=GG_eU395Qos
